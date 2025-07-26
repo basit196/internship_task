@@ -33,6 +33,7 @@ class CartScreen extends ConsumerWidget {
                 InkWell(
                   onTap: () {
                     GoRouter.of(context).pop();
+               
                   },
                   child: Container(
                     decoration: BoxDecoration(
