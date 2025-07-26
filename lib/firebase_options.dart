@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'internshiptask-8c7de.firebasestorage.app',
     measurementId: 'G-T9WL2RP4WR',
   );
+
 }
